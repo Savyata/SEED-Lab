@@ -1,1 +1,1 @@
-# SEED-Lab
+# SEED-Lab: Format String Vulnerability
