@@ -1,1 +1,1 @@
-# SEED-Lab: Format String Vulnerability
+# SEED-Lab: Network Security Lab Assignments
